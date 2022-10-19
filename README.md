@@ -15,3 +15,12 @@ https://sketchfab.com/3d-models/concept-art-candle-4fb54208b454493dbee88da0214d6
 https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
 
 https://forum.unity.com/threads/can-the-ui-buttons-detect-a-right-mouse-click.279027/
+
+https://www.youtube.com/watch?v=yH_PBbZf2mw&ab_channel=DestinedToLearn
+
+
+
+THINGS IVE ADDED IN TERMS OF ASSET USAGE
+
+craftingrecipe presets
+right and left click functionality for either consuming or send to crafting.
