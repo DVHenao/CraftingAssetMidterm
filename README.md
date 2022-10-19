@@ -10,3 +10,8 @@ https://assetstore.unity.com/packages/tools/game-toolkits/ultimate-crafting-syst
 
 https://www.youtube.com/watch?v=SGz3sbZkfkg - Core video that helps with making assets
 
+https://sketchfab.com/3d-models/concept-art-candle-4fb54208b454493dbee88da0214d66a8#download
+
+https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
+
+https://forum.unity.com/threads/can-the-ui-buttons-detect-a-right-mouse-click.279027/
