@@ -227,6 +227,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   item: {fileID: 0}
   descriptionText: {fileID: 0}
+  nameText: {fileID: 0}
+  CraftingParent: {fileID: 0}
+  CharacterParent: {fileID: 0}
+  craftSlots: []
+  craftResultSlots: []
+  CharacterStats: []
   count: 0
   itemIcon: {fileID: 840489830247215657}
   itemCountText: {fileID: 5826099176900553619}

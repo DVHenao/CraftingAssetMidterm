@@ -17,7 +17,7 @@ public struct ItemAmount
 [CreateAssetMenu]
 public class CraftingRecipe : ScriptableObject
 {
-    public List<ItemAmount> Materials;
-    public List<ItemAmount> Results;
+    public List<Item> Materials;
+    public List<Item> Results;
 
 }

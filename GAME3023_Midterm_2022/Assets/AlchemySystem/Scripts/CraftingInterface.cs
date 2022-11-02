@@ -16,4 +16,7 @@ public class CraftingInterface : MonoBehaviour
             craftingPanel.GetComponentsInChildren<ItemSlot>()
             );
     }
+
+
+
 }
