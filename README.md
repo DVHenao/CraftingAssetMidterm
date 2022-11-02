@@ -18,6 +18,12 @@ https://forum.unity.com/threads/can-the-ui-buttons-detect-a-right-mouse-click.27
 
 https://www.youtube.com/watch?v=yH_PBbZf2mw&ab_channel=DestinedToLearn
 
+https://www.youtube.com/watch?v=wvFZaOV7BRo&ab_channel=Comp-3Interactive
+
+https://www.youtube.com/watch?v=1WgLER7im_0&ab_channel=VCreationsTech
+
+https://www.youtube.com/watch?v=LmQ6U3YkHHk&t=903s
+
 
 
 THINGS IVE ADDED IN TERMS OF ASSET USAGE
