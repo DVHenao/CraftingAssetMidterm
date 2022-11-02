@@ -26,13 +26,3 @@ https://www.youtube.com/watch?v=LmQ6U3YkHHk&t=903s - was a reference for how som
 
 https://www.youtube.com/watch?v=gZsJ_rG5hdo&ab_channel=Kryzarel -- was a big help in both understanding how to create scriptable objects and how to layout and functionality of my crafting system should work overall.
 
-
-
-
-
-
-
-THINGS IVE ADDED IN TERMS OF ASSET USAGE
-
-craftingrecipe presets
-right and left click functionality for either consuming or send to crafting.
